@@ -9,6 +9,7 @@ Sample Input
 
 Sample Output
 5 1 2 3 4
+https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
 '''
 def array_left_rotation(a, n, k):
     arr2 = []
