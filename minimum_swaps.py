@@ -9,6 +9,7 @@ Sample Input
 Sample Output
 3
 """
+import os
 
 def minimumSwaps(arr):
     count = 0
